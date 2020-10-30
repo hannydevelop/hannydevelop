@@ -24,6 +24,17 @@ I am a female Nigerian with a Bachelor's degree in Marine engineering and Bootca
 
 - ⚡ Fun fact: I am weird, but in a good way though :heart_eyes:
 
+![Hannydevelop's github stats](https://github-readme-stats.vercel.app/api?username=hannydevelop&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannydevelop&show_icons=true&theme=radical)](https://github.com/hannydevelop/github-readme-stats)
+
+<a href="https://github.com/hannydevelop/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannydevelop&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hannydevelop&show_icons=true&theme=radical" />
+</a>
+
 
 <!--
 **hannydevelop/hannydevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
