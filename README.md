@@ -1,6 +1,6 @@
 <h1 align='center'><i>Hi there 👋 !</i></h1>
 
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+
 
 <p align='center'>My name is Ugochi Ukpai. 
 I am a female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. I'm a full stack JavaScript developer (MEVN) stack. I love to share knowledge about my transition from marine engineering to software development in the form of writing, to encourage people who love software development and don't know where to begin. I also contribute to FOSS in my free time.</p>
