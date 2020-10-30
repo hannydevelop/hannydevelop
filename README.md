@@ -1,11 +1,13 @@
-### Hi there 👋
+<h1 align='center'><i>Hi there 👋 !</i></h1>
 
-My name is Ugochi Ukpai. 
-I am a female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. I'm a full stack JavaScript developer (MEVN) stack. I love to share knowledge about my transition from marine engineering to software development in the form of writing, to encourage people who love software development and don't know where to begin. I also contribute to FOSS in my free time.
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+
+<p align='center'>My name is Ugochi Ukpai. 
+I am a female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. I'm a full stack JavaScript developer (MEVN) stack. I love to share knowledge about my transition from marine engineering to software development in the form of writing, to encourage people who love software development and don't know where to begin. I also contribute to FOSS in my free time.</p>
 
 ###  :girl: Pronouns: She/Her
 
-- 🔭 I’m currently working on **MEVN Stack**, creating little projects to understand more how things work in this stack :wink:. I write Markdown and RST well too.
+<p align='center'>I’m currently working on MEVN Stack, creating little projects to understand more how things work in this stack :wink:. I write Markdown and RST well too.</p>
 
                                                     M - MongoDB
 
@@ -15,10 +17,10 @@ I am a female Nigerian with a Bachelor's degree in Marine engineering and Bootca
 
                                                     N - Node.Js
 
-- 💬 Ask me about things related to **MEVN** expecially **M-E-N**, am not your regular front end developer :smile:. You could ask me about writing, I love writing about technologies I have used.
+<p align='center'>Ask me about things related to MEVN expecially M-E-N, am not your regular front end developer :smile:. You could ask me about writing, I love writing about technologies I have used.</p>
 
-     - [Personal Blog](http://hannydevelop.hashnode.dev/)
-     - [LogRocket](https://blog.logrocket.com/author/ukpaiugochi/)
+   - [Personal Blog](http://hannydevelop.hashnode.dev/)
+   - [LogRocket](https://blog.logrocket.com/author/ukpaiugochi/)
 
 - 📫 How to reach me:
 
